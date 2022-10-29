@@ -25,5 +25,5 @@ Hard-working listing programmer with a flair for creating elegant solutions in t
 [![](https://visitcount.itsvg.in/api?id=SouravBasak08&icon=3&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/souravbasak03) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/souravbasak03) 
 
