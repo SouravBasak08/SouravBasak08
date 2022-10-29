@@ -19,7 +19,7 @@ Hard-working listing programmer with a flair for creating elegant solutions in t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://imgflip.com/i/6ys8d3" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SouravBasak08&icon=3&color=11)](https://visitcount.itsvg.in)
@@ -27,5 +27,3 @@ Hard-working listing programmer with a flair for creating elegant solutions in t
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/souravbasak03) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
