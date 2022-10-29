@@ -16,13 +16,13 @@ Hard-working listing programmer with a flair for creating elegant solutions in t
 ![](https://github-profile-trophy.vercel.app/?username=SouravBasak08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SouravBasak08&icon=3&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SouravBasak08&icon=3&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/souravbasak03) 
