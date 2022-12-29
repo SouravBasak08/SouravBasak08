@@ -19,7 +19,7 @@ Hard-working listing programmer with a flair for creating elegant solutions in t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://www.coolgenerator.com/random-image-generator)
 <!-- <img src="https://64.media.tumblr.com/a26b3a31dd153009fead9da9b829a7c5/c4dd0a13552135ad-66/s1280x1920/abb2c4579984d006ff0ea6d28f56dceb6850f931.png" width="512px"/> -->
 
 ---
