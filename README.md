@@ -19,7 +19,8 @@ Hard-working listing programmer with a flair for creating elegant solutions in t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://64.media.tumblr.com/a26b3a31dd153009fead9da9b829a7c5/c4dd0a13552135ad-66/s1280x1920/abb2c4579984d006ff0ea6d28f56dceb6850f931.png" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- <img src="https://64.media.tumblr.com/a26b3a31dd153009fead9da9b829a7c5/c4dd0a13552135ad-66/s1280x1920/abb2c4579984d006ff0ea6d28f56dceb6850f931.png" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SouravBasak08&icon=3&color=11)](https://visitcount.itsvg.in)
